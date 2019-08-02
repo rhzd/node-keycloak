@@ -1,0 +1,11 @@
+{
+  "realm": "CAMPAIGN_REALM",
+  "auth-server-url": "http://192.168.2.129:8080/auth",
+  "ssl-required": "external",
+  "resource": "CAMPAIGN_CLIENT",
+  "credentials": {
+    "secret": "6d979be5-cb81-4d5c-9fc7-45d1b0c7a75e"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}
