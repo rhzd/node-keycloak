@@ -13,6 +13,6 @@
     "express-session": "^1.14.2",
     "hogan-express": "^0.5.2",
     "jwt-decode": "^2.2.0",
-    "keycloak-connect": "^3.3.0"
+    "keycloak-connect": "^4.8.3"
   }
 }
